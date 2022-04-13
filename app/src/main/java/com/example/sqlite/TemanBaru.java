@@ -31,8 +31,8 @@ public class TemanBaru extends AppCompatActivity {
         simpanBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(tNama.getText().equals("")||tTelpon.getText().toString().equals("")){
-                    Toast.makeText(getApplicationContext(),"Data belum komplit!", Toast.LENGTH_SHORT).show();
+                if(tNama.getText().toString().isEmpty() || tTelpon.getText().toString().isEmpty()){
+                    Toast.makeText(getApplicationContext(), "Data Belum komplit !", Toast.LENGTH_SHORT).show();
                 }else {
                     nm = tNama.getText().toString();
                     tlp = tTelpon.getText().toString();

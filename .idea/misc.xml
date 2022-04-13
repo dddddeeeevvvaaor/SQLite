@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/layout-v21/activity_edit_teman2.xml" value="0.21557971014492755" />
+        <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/layout/activity_edit_teman.xml" value="0.1" />
+        <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/layout/activity_edit_teman2.xml" value="0.1" />
         <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
         <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/layout/activity_teman_baru.xml" value="0.1" />
         <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/layout/row_data_teman.xml" value="0.1" />
+        <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/menu/menu.xml" value="0.10462962962962963" />
         <entry key="..\:/Tugas_PAM/SQLite/app/src/main/res/menu/popupmenu.xml" value="0.2074074074074074" />
       </map>
     </option>
